@@ -16,3 +16,6 @@ A simple Android To-Do List application developed with Java in Android Studio.
 This repository contains only the APK version of the application.
 Unfortunately, the original Android Studio source code is no longer available.
 The application interface is in Turkish because it was originally developed as a personal project.
+
+## Author
+Ceylin KALE
