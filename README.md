@@ -19,7 +19,7 @@ A simple Android To-Do List application developed with Java in Android Studio.
 
 ## Screenshots
 ### Add Task 
-![adding task](screenshot/adding-task.png)
+![Add task](screenshot/adding-task.png)
 
 ### Home Screen
 ![homee](screenshot/homee.png)
