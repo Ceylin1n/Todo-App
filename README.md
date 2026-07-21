@@ -17,10 +17,10 @@ A simple Android To-Do List application developed with Java in Android Studio.
 - Gradle build files
 - Android project structure
 
+## Screenshots
 ### Home Screen
 ![homee](screenshot/homee.png)
 
-## Screenshots
 ### Add Task 
 ![Add task](screenshot/adding-task.png)
 
