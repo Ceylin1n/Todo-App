@@ -17,5 +17,12 @@ A simple Android To-Do List application developed with Java in Android Studio.
 - Gradle build files
 - Android project structure
 
+## Screenshots
+### Add Task 
+![adding task](screenshot/adding-task.png)
+
+### Home Screen
+![homee](screenshot/homee.png)
+
 ## Author
 Ceylin KALE
