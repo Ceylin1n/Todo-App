@@ -1,4 +1,4 @@
-# 📋 Todo App
+# 📋 To-do App
 A simple Android To-Do List application developed with Java in Android Studio.
 
 ## Features
